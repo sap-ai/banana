@@ -1,3 +1,4 @@
+<title>banana</title>
 # banana
 <h2>The new lightweight python self hosted database.</h2>
 <img src="istock-162487071.jpg"></img>
