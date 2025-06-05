@@ -9,3 +9,4 @@
 <p>The data goes into db.txt.</p>
 <p>Data gets overwritten by the data you add.</p>
 <a href="https://github.com/sap-ai/banana.json">Banana.json</a>
+<p>The newest version is dbv2.py, it has the sz as the contennt which shows the data from the data base.</p>
