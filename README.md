@@ -1,5 +1,5 @@
 # banana
-<h2>A new lightweight python self hosted database.</h2>
+<h2>The new lightweight python self hosted database.</h2>
 <img src="istock-162487071.jpg"></img>
 <p>To change the, ip, and port, you must change the host's values to change the ip in db.py, and you must change the port value to change the port in db.py, run db.py to activate the db.</p>
 <p>To use this curl the url with the ip, and port, then add the comand and /, and after that add the content(no spaces) you want to do to the data base.</p>
