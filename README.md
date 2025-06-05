@@ -11,3 +11,5 @@
 <a href="https://github.com/sap-ai/banana.json">Banana.json</a>
 <p></p>
 <p>The newest version is dbv2.py, it has the sz as the contennt which shows the data from the data base.</p>
+<a href="https://github.com/sap-ai/banana/blob/main/db.py">banana v1</a>
+<a href="https://github.com/sap-ai/banana/blob/main/db.py">banana v1</a>
